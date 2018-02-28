@@ -369,7 +369,8 @@ header .navbar.inbody .navbar-nav {
 
 header .inbody .navbar-brand {
   background-size: 28px;
-  background-position: top left;
+  /*background-position: top left;*/
+  background-position: 3px 3px;
   margin-top: 0px;
   padding-bottom: 0;
   margin-left: 10px;
@@ -377,7 +378,7 @@ header .inbody .navbar-brand {
 
 header .inbody .navbar-brand h1 {
   font-size: 1.1em;
-  padding-left: 35px;
+  padding-left: 40px;
 }
 
 header .inbody .navbar-brand span.subhead {
