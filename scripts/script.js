@@ -21,10 +21,10 @@ $(document).ready(function() {
 	console.log(hash);
   if(hash !== '#featured') {
     $('header nav').addClass('inbody');
-	 console.log("true");
+
   } else {
     $('header nav').removeClass('inbody');
-	  console.log('false');
+
   }
 	
 
