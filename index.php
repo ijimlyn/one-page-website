@@ -49,7 +49,7 @@
 						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
 						</div>
 						<div class="carousel-item">
-						<img class="d-block w-100" src="images/logoMockUp.jpg" alt="igacos-foundation">
+						<img class="d-block w-100" src="images/instagram.jpg" alt="instagram-cover">
 					</div>
 					<div class="carousel-item">
 						<img class="d-block w-100" src="images/" alt="fish">
