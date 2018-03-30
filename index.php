@@ -80,21 +80,21 @@
 		<h2>Services</h2>
 		<div class="row">
 			<article class="service col-md-4 col-12 col-sm-6">
-				<img class="icon" src="images/icon-exoticpets.svg" alt="icon">
-				<h3>Exotic Pets</h3>
+				<img class="icon" src="images/icon-Graphicdesig.svg" alt="icon">
+				<h3>Vector/Pixel Design</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+			</article>
+			<article class="service col-md-4 col-12 col-sm-6">
+				<img class="icon" src="images/icon-code.svg" alt="icon">
+				<h3>Web Development</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
 			</article>
 			<article class="service col-md-4 col-12 col-sm-6">
-				<img class="icon" src="images/icon-grooming.svg" alt="icon">
-				<h3>Grooming</h3>
+				<img class="icon" src="images/icon-Webdesign.svg" alt="icon">
+				<h3>Web Design<	/h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 			</article>
-			<article class="service col-md-4 col-12 col-sm-6">
-				<img class="icon" src="images/icon-health.svg" alt="icon">
-				<h3>General Health</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-			</article>
-			<article class="service col-md-4 col-12 col-sm-6">
+			<!--<article class="service col-md-4 col-12 col-sm-6">
 				<img class="icon" src="images/icon-nutrition.svg" alt="icon">
 					<h3>Nutrition</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>		
@@ -108,7 +108,7 @@
 				<img class="icon" src="images/icon-vaccinations.svg" alt="icon">
 				<h3>Vaccination</h3>
 				<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-			</article>
+			</article>-->
 		</div><!--row-->
 	</div> <!--content container-->
 </div><!--page services-->
