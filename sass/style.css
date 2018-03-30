@@ -3,11 +3,12 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Roboto+Slab:100,300,400,700");
 .bg-light {
   /*background-color:transparent!important;*/
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  transition: background-color ease-in-out .7s; }
+
+.inbody {
   background-color: rgba(0, 0, 0, 0.5) !important; }
 
-/*.inbody{
-	background-color:rgba(0,0,0,0.5)!important;
-}*/
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
   color: #eef08a; }
 
@@ -33,7 +34,8 @@ h1, h2, h3, h4, h5, h6 {
 /*header*/
 header .navbar-brand {
   background-image: url(../images/`jimlynLogo.svg);
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  height: auto; }
   header .navbar-brand span.subhead {
     display: block;
     /*to display on its own line*/
@@ -67,6 +69,11 @@ header .navbar-light .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
 
 /* end of header .navbar-brand*/
+/*header inbody*/
+header .navbar {
+  padding: 30px 0;
+  transition: all .5s ease-out; }
+
 /*generic--page*/
 .page {
   padding: 50px 0; }
@@ -76,11 +83,8 @@ header .navbar-light .navbar-toggler-icon {
 
 /*end of page*/
 /*page -- staff*/
-#staff {
-  background-col: #e4d29d;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#e4d29d), to(#cdae50));
-  background-image: -webkit-linear-gradient(top, #e4d29d, #cdae50);
-  background-image: -o-linear-gradient(top, #e4d29d, #cdae50);
+#bio {
+  background-color: #e4d29d;
   background-image: linear-gradient(to bottom, #e4d29d, #cdae50); }
 
 /*end of page -- staff*/
@@ -117,9 +121,6 @@ header .navbar-light .navbar-toggler-icon {
 /*page--mission*/
 #mission {
   background-color: #e4d29d;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#eef08a), to(#81982d));
-  background-image: -webkit-linear-gradient(top, #eef08a, #81982d);
-  background-image: -o-linear-gradient(top, #eef08a, #81982d);
   background-image: linear-gradient(to bottom, #eef08a, #81982d);
   border-top: 20px solid rgba(238, 200, 86, 0.5); }
 
@@ -221,8 +222,6 @@ footer {
 .carousel.cFade {
   opacity: 1; }
   .carousel.cFade .carousel-item {
-    -webkit-transition: opacity ease-out .7s;
-    -o-transition: opacity ease-out .7s;
     transition: opacity ease-out .7s;
     top: 0;
     left: 0;
@@ -248,18 +247,45 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
 @media only screen and (min-width: 450px) and (max-width: 767px) {
   #services p {
     padding: 0 20%; } }
-
 @media (max-width: 575px) {
   a.navbar-brand {
     /*visibility: hidden;*/
     display: none; }
+
   header .navbar-collapse {
     background-color: rgba(0, 0, 0, 0.5); }
+
   .bg-light {
     /*background-color:transparent!important;*/
     background-color: transparent !important; }
-  /*		.collapse.show {
-			padding-left: 1em;
-		}*/ }
 
+  /*		.collapse.show {
+  		padding-left: 1em;
+  	}*/ }
 /*end of --other media*/
+@media (min-width: 768px) {
+  /**  nav inbody **/
+  header .inbody {
+    background: rgba(104, 73, 49, 0.9); }
+
+  header .navbar.inbody {
+    padding-top: 0;
+    padding-bottom: 0; }
+
+  header .navbar.inbody .navbar-nav {
+    padding-top: 10px; }
+
+  header .inbody .navbar-brand {
+    background-size: 28px;
+    /*background-position: top left;*/
+    background-position: 3px 3px;
+    margin-top: 0px;
+    padding-bottom: 0;
+    margin-left: 10px; }
+
+  header .inbody .navbar-brand h1 {
+    font-size: 1.1em;
+    padding-left: 40px; }
+
+  header .inbody .navbar-brand span.subhead {
+    display: none; } }

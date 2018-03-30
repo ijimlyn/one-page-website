@@ -28,7 +28,7 @@
 					<li class="nav-item pl-2"><a class="nav-link  active" href="#featured">Home</a></li>
 					<li class="nav-item pl-2"><a class="nav-link" href="#mission">Mission</a></li>
 					<li class="nav-item pl-2"><a class="nav-link" href="#services">Services</a></li>
-					<li class="nav-item pl-2"><a class="nav-link" href="#staff">Staff</a></li>
+					<li class="nav-item pl-2"><a class="nav-link" href="#bio">Bio</a></li>
 					<li class="nav-item pl-2 "><a class="nav-link disabled" href="#testimonials">Testimonials</a></li>
 				</ul>
   			 </div><!--collapse navbar-collapse-->
@@ -91,7 +91,7 @@
 			</article>
 			<article class="service col-md-4 col-12 col-sm-6">
 				<img class="icon" src="images/icon-Webdesign.svg" alt="icon">
-				<h3>Web Design<	/h3>
+				<h3>Web Design</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 			</article>
 			<!--<article class="service col-md-4 col-12 col-sm-6">
@@ -113,9 +113,9 @@
 	</div> <!--content container-->
 </div><!--page services-->
 
-<div class="page" id="staff">
+<div class="page" id="bio">
 	<div class="container-fluid">
-			<h2>Our Staff</h2>
+			<h2>Bio</h2>
 		<div class="row">
 			<div class="doctor col-lg-4">
 				<div class="row">

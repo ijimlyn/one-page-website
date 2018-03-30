@@ -87,8 +87,8 @@ header .navbar {
 
 /*end of page*/
 /*page -- staff*/
-#staff {
-  background-col: #e4d29d;
+#bio {
+  background-color: #e4d29d;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#e4d29d), to(#cdae50));
   background-image: -webkit-linear-gradient(top, #e4d29d, #cdae50);
   background-image: -o-linear-gradient(top, #e4d29d, #cdae50);
@@ -295,3 +295,5 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
     padding-left: 40px; }
   header .inbody .navbar-brand span.subhead {
     display: none; } }
+
+/*# sourceMappingURL=style.css.map */
