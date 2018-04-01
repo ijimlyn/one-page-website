@@ -7,6 +7,7 @@
 	<title>jimlyn web & graphics</title>
 	<!-- cdn -->
 	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
+	<link rel="icon" type="image/png" href="images/faveicon.png">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/style.css">
