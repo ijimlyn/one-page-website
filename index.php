@@ -41,12 +41,6 @@
 				</ol>
 				<div class="carousel-inner fullHeight">
 					<div class="carousel-item active">
-						<img class="d-block w-100" src="images/wGold.jpg" alt="warriors">
-					</div>
-					<div class="carousel-item">
-						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
-						</div>
-						<div class="carousel-item">
 						<img class="d-block w-100" src="images/Perspective-Business-Cards-MockUp-2.jpg" alt="business-cardr">
 					</div>
 					<div class="carousel-item">
@@ -54,6 +48,12 @@
 					</div>
 					<div class="carousel-item">
 						<img class="d-block w-100" src="images/toggleUpLogo.jpg" alt="social-logo">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
 					</div>
 					<a class="carousel-control-prev" href="#cDoctor" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
