@@ -70,8 +70,8 @@
 			<div class="content container">
 				<h2>Our Mission</h2>
 				<div class="row">
-					<p class="col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam dignissimos, aliquam molestiae dolorum ex ipsum molestias asperiores fugit dolore repellendus quidem, nihil soluta obcaecati repellat possimus aspernatur ratione eligendi rem nisi magnam! Quas dolore sed iure. Molestias perferendis voluptas, distinctio, quaerat voluptatibus odio, harum sequi, autem voluptates incidunt consequuntur ullam excepturi eum nemo mollitia magnam aut aperiam dolorum porro. Ea.</p>
-					<p class="col-md-6 ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas quia nemo, nulla autem in veritatis voluptatibus debitis, ullam perspiciatis aut fuga mollitia aliquid, tempora voluptates delectus magnam quis ducimus consequuntur ipsa nam voluptatem iusto! Nesciunt atque dolor nihil facere, excepturi dolores expedita et facilis.</p>
+					<p class="col-md-6">My mission is to provide quality developed websites, web and print graphic designs to market their products/services and trying to help them succeed.</p>
+					<p class="col-md-6 ">I handle projects with pride and as a unique oppurtunity to help my clients meet their business goals.</p>
 				</div>
 			</div><!--content container-->
 		</div><!--mission-->
@@ -108,6 +108,7 @@
 						<img class="rounded-circle" src="images/jimlyn.jpg" alt="jimlyn">
 					</div><!--photo-->
 					<div class="info col-sm-12 col-md-6">
+						<h3>Hi! I am Jimlyn Tura Inoc</h3>
 						<p>A few years ago a serendipitous event inspired me to get into media arts. I first started pixel designs then moved to vector graphics, to audio and video effecting and editing then dove into the world of web front end development. I fell inlove with it.</p>
 						<p>Theres nothing greater than finding unlimitted oppurtunites at home while connecting to people around the world by helping them meet their business goals thru arts of coding or digitial drawing.</p>
 						<p>I have so many different experiences in this complex online freelancing job. There were goods and bads that helped me hone my skills  as an artist and hone me as a person because online oppurtunity doesn't always come so easily it requires tons of focus and patience.</p>
