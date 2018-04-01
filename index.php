@@ -43,16 +43,16 @@
 						<img class="d-block w-100" src="images/wGold.jpg" alt="warriors">
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" src="images/aaa.jpg" alt="mission" alt="pags-grill">
-					</div>
-					<div class="carousel-item">
 						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
 						</div>
 						<div class="carousel-item">
-						<img class="d-block w-100" src="images/instagram.jpg" alt="instagram-cover">
+						<img class="d-block w-100" src="images/Perspective-Business-Cards-MockUp-2.jpg" alt="business-cardr">
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" src="images/" alt="fish">
+						<img class="d-block w-100" src="images/sardisLogo.jpg" alt="fitness-logo">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/toggleUpLogo.jpg" alt="social-logo">
 					</div>
 					<a class="carousel-control-prev" href="#cDoctor" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -82,110 +82,79 @@
 			<article class="service col-md-4 col-12 col-sm-6">
 				<img class="icon" src="images/icon-Graphicdesig.svg" alt="icon">
 				<h3>Vector/Pixel Design</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				<p>Design Logos, T-shirts, Flyers, Posters, Business Cards etc...</p>
 			</article>
 			<article class="service col-md-4 col-12 col-sm-6">
 				<img class="icon" src="images/icon-code.svg" alt="icon">
 				<h3>Web Development</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+				<p>Develop using PHP server script and MYSQL, Boostrap, HTML, CSS, Javascripts</p>
 			</article>
 			<article class="service col-md-4 col-12 col-sm-6">
 				<img class="icon" src="images/icon-Webdesign.svg" alt="icon">
 				<h3>Web Design</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				<p>Responsive design both simple static to corporate dynamic.</p>
 			</article>
-			<!--<article class="service col-md-4 col-12 col-sm-6">
-				<img class="icon" src="images/icon-nutrition.svg" alt="icon">
-					<h3>Nutrition</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>		
-			</article>
-			<article class="service col-md-4 col-12 col-sm-6">
-				<img class="icon" src="images/icon-pestcontrol.svg" alt="icon">
-				<h3>Pest Control</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-			</article>
-			<article class="service col-md-4 col-12 col-sm-6">
-				<img class="icon" src="images/icon-vaccinations.svg" alt="icon">
-				<h3>Vaccination</h3>
-				<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-			</article>-->
-		</div><!--row-->
+			</div><!--row-->
 	</div> <!--content container-->
 </div><!--page services-->
 
 <div class="page" id="bio">
 	<div class="container-fluid">
-			<h2>Bio</h2>
+			<h2>About Jimlyn</h2>
 		<div class="row">
-			<div class="doctor col-lg-4">
+		<div class="doctor col-12">
 				<div class="row">
-					<div class="photo col-6 offset-3 col-sm-3 offset-sm-1 col-md-2 offset-md-2 col-lg-4 offset-lg-0">
-						<img class="rounded-circle" src="images/drwinthrop.jpg" alt="dr winthrop">
+					<div class="photo col-sm-12 col-md-2 offset-md-2">
+						<img class="rounded-circle" src="images/jimlyn.jpg" alt="jimlyn">
 					</div><!--photo-->
-					<div class="info col-8 offset-2 col-sm-7 offset-sm-0 col-md-6 col-lg-8">
-						<h3>Dr Winthrop</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae quidem architecto temporibus minus similique.</p>
+					<div class="info col-sm-12 col-md-6">
+						<p>A few years ago a serendipitous event inspired me to get into media arts. I first started pixel designs then moved to vector graphics, to audio and video effecting and editing then dove into the world of web front end development. I fell inlove with it.</p>
+						<p>Theres nothing greater than finding unlimitted oppurtunites at home while connecting to people around the world by helping them meet their business goals thru arts of coding or digitial drawing.</p>
+						<p>I have so many different experiences in this complex online freelancing job. There were goods and bads that helped me hone my skills  as an artist and hone me as a person because online oppurtunity doesn't always come so easily it requires tons of focus and patience.</p>
+						<p>I love working with new people and learning new things. Feel free to say hello and share your business goals with me. </p>
+						
+						
+						
 					</div><!--info-->
-				</div><!--innerRow--> 
+				</div><!--Row--> 
 			</div><!--doctor-->
-			<div class="doctor col-lg-4">
-				<div class="row">
-					<div class="photo col-6 offset-3 col-sm-3 offset-sm-1 col-md-2 offset-md-2 col-lg-4 offset-lg-0">
-						<img class="rounded-circle" src="images/drchase.jpg" alt="dr chase">
-					</div><!--photo-->
-					<div class="info col-8 offset-2 col-sm-7 offset-sm-0 col-md-6 col-lg-8">
-						<h3>Dr Chase</h3>
-						<p>Ex, voluptatibus, quidem. Obcaecati nobis rerum voluptatem pariatur adipisci suscipit officia facere hic est officiis mollitia quae eaque.</p>
-					</div><!--info-->
-				</div><!--innerRow-->
-			</div><!--doctor-->
-			<div class="doctor col-lg-4">
-				<div class="row">
-					<div class="photo col-6 offset-3 col-sm-3 offset-sm-1 col-md-2 offset-md-2 col-lg-4 offset-lg-0">
-						<img class="rounded-circle" src="images/drsanders.jpg" alt="dr sanders">
-					</div><!--photo-->
-					<div class="info col-8 offset-2 col-sm-7 offset-sm-0 col-md-6 col-lg-8">
-						<h3>Dr Sanders</h3>
-						<p>Quaerat dolorem consequuntur dicta! Nisi numquam non et assumenda vel accusantium praesentium suscipit enim odio distinctio.</p>	
-					</div><!--info-->
-				</div><!--innerRow-->
-			</div><!--doctor-->
+					
 		</div><!--row-->
 	</div><!--container-->
-</div><!--staff-->
+</div><!--bio-->
 
 <div class="page" id="testimonials">
 	<div class="container-fluid">
 		<h2>Testimonials</h2>
 		<div class="row">
-			<blockquote class="col-sm-6" id="mcphersons">
+			<blockquote class="col-sm-6" id="ahmed">
 				<div class="quote">
-					<span class="intro">When Samantha, our Siamese cat, began sleeping all the time</span>
-					<span class="more">and urinating excessively, we brought her to see the specialists at Wisdom. After running a blood test, Dr. Winthrop confirmed what we all feared - Samantha was showing signs of diabetes. The doctor put us on a daily routine to provide Samantha insulin injections, and showed us how to administer the shots. We weren't sure we could do it, but the gang at Wisdom was very supportive and encouraging. Now, two years later, Samantha is still free from any complications of diabetes, and her blood sugar regularly tests normal. Thank you, Wisdom Pet Medicine!</span>
-					<span class="customer">The McPhersons</span>
+					<span class="intro">Excellent work!</span>
+					<span class="more">Jim is uper fast, flexible, takes roug ideas and turns them into great graphics and art. We'll definitely use (him) again for similar work. Thanks!</span>
+					<span class="customer">The Khawar A.</span>
 				</div>
 			 </blockquote>
-				<blockquote class="col-sm-6" id="janeh">
+				<blockquote class="col-sm-6" id="alan">
 				<div class="quote">
-					<span class="intro">When Samantha, our Siamese cat, began sleeping all the time</span>
-					<span class="more">and urinating excessively, we brought her to see the specialists at Wisdom. After running a blood test, Dr. Winthrop confirmed what we all feared - Samantha was showing signs of diabetes. The doctor put us on a daily routine to provide Samantha insulin injections, and showed us how to administer the shots. We weren't sure we could do it, but the gang at Wisdom was very supportive and encouraging. Now, two years later, Samantha is still free from any complications of diabetes, and her blood sugar regularly tests normal. Thank you, Wisdom Pet Medicine!</span>
-					<span class="customer">Jane H.</span>
+					<span class="intro">Great to work with</span>
+					<span class="more">Very fast in delivery</span>
+					<span class="customer">Mark A.</span>
 				</div>
 			 </blockquote>	
  
-		  	<blockquote class="col-sm-6" id="johnb">
+		  	<blockquote class="col-sm-6" id="bishop">
 				<div class="quote">
-					<span class="intro">The staff at Wisdom worked tirelessly to determine why our three-year old</span>
-					<span class="more">Golden Retriever, Roxie, started going into sudden kidney failure. They stabilized her and provided fluids until her kidneys were again functioning normally, but it was still a mystery as to what caused her health to decline so quickly. The vet noted our address on Roxie's chart, and asked if we lived on one of the orchards in the vicinity, and if Roxie had a habit of eating grapes off the vine. Our answer was "of course – she's a Retriever." That day we learned just how toxic grapes and raisins are to pets, and Roxie is no longer allowed to roam unattended in the orchard.</span>
-					<span class="customer">John B</span>
+					<span class="intro">Great Job!</span>
+					<span class="more">Jim is easy to work with and nothing was a bother/span>
+					<span class="customer">Kim B.</span>
 				</div>
 			</blockquote>
 			
-			<blockquote class="col-sm-6" id="lorraines">
+			<blockquote class="col-sm-6" id="porter">
 				<div class="quote">
-					<span class="intro">Wisdom Pet Medicine is the only clinic around that will even</span>
-					<span class="more">book pet fish for appointments. When our 13-year old Comet goldfish, McAllister, turned from silvery white to an angry red, we called around, urgently trying to find a veterinarian who could help. Wisdom not only got us in the same day, but also was able to diagnose McAllister as having a severe case of septicemia. In order to kill the harmful bacteria in his blood, we had to use a dog antibiotic in his tank every day for a week, and in the end, McAllister was good as new. I still smile upon remembering Dr. Chase pulling out an old vet school textbook to calculate the correct antibiotic dose for a fish!</span>
-					<span class="customer">Lorraine S</span>
+					<span class="intro">Excellent Work!</span>
+					<span class="more">Have used Jimlyn before and will do again.</span>
+					<span class="customer">Simon P.</span>
 				</div>
 			</blockquote>
 		</div><!--row-->

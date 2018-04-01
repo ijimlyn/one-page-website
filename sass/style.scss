@@ -113,7 +113,7 @@ header .navbar {
 }
 /*end of page*/
 
-/*page -- staff*/
+/*page -- bio*/
 #bio{
 	background-color: #e4d29d;
 	background-image:linear-gradient(to bottom,#e4d29d,#cdae50);
@@ -196,26 +196,26 @@ header .navbar {
 	blockquote .quote:hover{
 		background-color: rgba(239,240,196,0.90);
 	}
-	#janeh{
-		background-image:url(../images/testimonial-janeh.jpg);
+	#alan{
+		background-image:url(../images/testimonial-Mark_Alan.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
 	}
-	#mcphersons{
-		background-image:url(../images/testimonial-mcphersons.jpg);
+	#ahmed{
+		background-image:url(../images/testimonial-Khawar_Ahmed.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
 	}
-	#johnb{
-		background-image:url(../images/testimonial-johnb.jpg);
+	#bishop{
+		background-image:url(../images/testimonial-Kim_Bishop.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
 	}
-	#lorraines{
-		background-image:url(../images/testimonial-lorraines.jpg);
+	#porter{
+		background-image:url(../images/testimonial-Simon_Porter.jpg);
 		background-size: cover;
 	}
 	.quote{
@@ -316,7 +316,7 @@ span.carousel-control-prev-icon,span.carousel-control-next-icon{
 }
 
 /*other media*/
-@media(max-width:767px){
+@media(min-width:767px){
 
 }
 
@@ -324,6 +324,12 @@ span.carousel-control-prev-icon,span.carousel-control-next-icon{
 @media only screen and (min-width:450px)and(max-width:767px){
 	#services p{
 		padding:0 20%;
+	}
+	
+	.photo img {
+		display:block;
+		margin:0 auto;
+		margin-bottom: 1em;
 	}
 }
 

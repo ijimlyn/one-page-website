@@ -86,7 +86,7 @@ header .navbar {
     margin: 30px; }
 
 /*end of page*/
-/*page -- staff*/
+/*page -- bio*/
 #bio {
   background-color: #e4d29d;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#e4d29d), to(#cdae50));
@@ -155,23 +155,23 @@ header .navbar {
     border-radius: 0 50px 0 0; }
   #testimonials blockquote .quote:hover {
     background-color: rgba(239, 240, 196, 0.9); }
-  #testimonials #janeh {
-    background-image: url(../images/testimonial-janeh.jpg);
+  #testimonials #alan {
+    background-image: url(../images/testimonial-Mark_Alan.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; }
-  #testimonials #mcphersons {
-    background-image: url(../images/testimonial-mcphersons.jpg);
+  #testimonials #ahmed {
+    background-image: url(../images/testimonial-Khawar_Ahmed.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; }
-  #testimonials #johnb {
-    background-image: url(../images/testimonial-johnb.jpg);
+  #testimonials #bishop {
+    background-image: url(../images/testimonial-Kim_Bishop.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; }
-  #testimonials #lorraines {
-    background-image: url(../images/testimonial-lorraines.jpg);
+  #testimonials #porter {
+    background-image: url(../images/testimonial-Simon_Porter.jpg);
     background-size: cover; }
   #testimonials .quote {
     font-size: 1.2em;
@@ -258,7 +258,11 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
 /*other media*/
 @media only screen and (min-width: 450px) and (max-width: 767px) {
   #services p {
-    padding: 0 20%; } }
+    padding: 0 20%; }
+  .photo img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em; } }
 
 @media (max-width: 575px) {
   a.navbar-brand {
