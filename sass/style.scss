@@ -316,7 +316,12 @@ span.carousel-control-prev-icon,span.carousel-control-next-icon{
 }
 
 /*other media*/
-@media(min-width:767px){
+@media(min-width:300px){
+	.photo img {
+		display:block;
+		margin:0 auto;
+		margin-bottom: 1em;
+	}
 
 }
 
@@ -326,11 +331,7 @@ span.carousel-control-prev-icon,span.carousel-control-next-icon{
 		padding:0 20%;
 	}
 	
-	.photo img {
-		display:block;
-		margin:0 auto;
-		margin-bottom: 1em;
-	}
+	
 }
 
 @media(max-width:575px) {

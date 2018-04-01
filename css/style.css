@@ -256,13 +256,15 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
   height: 30px; }
 
 /*other media*/
-@media only screen and (min-width: 450px) and (max-width: 767px) {
-  #services p {
-    padding: 0 20%; }
+@media (min-width: 300px) {
   .photo img {
     display: block;
     margin: 0 auto;
     margin-bottom: 1em; } }
+
+@media only screen and (min-width: 450px) and (max-width: 767px) {
+  #services p {
+    padding: 0 20%; } }
 
 @media (max-width: 575px) {
   a.navbar-brand {
