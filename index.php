@@ -69,7 +69,7 @@
 <div class="main">
 		<div class="page" id="mission">
 			<div class="content container">
-				<h2>Our Mission</h2>
+				<h2>Mission</h2>
 				<div class="row">
 					<p class="col-md-6">My mission is to provide quality developed websites, web and print graphic designs to market their products/services and trying to help them succeed.</p>
 					<p class="col-md-6 ">I handle projects with pride and as a unique oppurtunity to help my clients meet their business goals.</p>
