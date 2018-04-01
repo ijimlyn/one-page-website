@@ -82,7 +82,7 @@
 		<div class="row">
 			<article class="service col-md-4 col-12 col-sm-6">
 				<img class="icon" src="images/icon-Graphicdesig.svg" alt="icon">
-				<h3>Vector/Pixel Design</h3>
+			i	<h3>Vector/Pixel Design</h3>
 				<p>Design Logos, T-shirts, Flyers, Posters, Business Cards etc...</p>
 			</article>
 			<article class="service col-md-4 col-12 col-sm-6">
