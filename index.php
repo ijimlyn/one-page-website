@@ -53,7 +53,10 @@
 						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
+						<img class="d-block w-100" src="images/mothersDayLogo.jpg" alt="brochure">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/threeSistersLogo.jpg" alt="logo">
 					</div>
 					<a class="carousel-control-prev" href="#cDoctor" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
