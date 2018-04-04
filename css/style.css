@@ -260,11 +260,16 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
   .photo img {
     display: block;
     margin: 0 auto;
-    margin-bottom: 1em; } }
+    margin-bottom: 1em; }
+  #bio .info h3 {
+    text-align: center; } }
 
+/*end of--@media(min-width:300px)*/
 @media only screen and (min-width: 450px) and (max-width: 767px) {
   #services p {
-    padding: 0 20%; } }
+    padding: 0 20%; }
+  #bio .info h3 {
+    text-align: center; } }
 
 @media (max-width: 575px) {
   a.navbar-brand {

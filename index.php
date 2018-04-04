@@ -147,7 +147,7 @@
 		  	<blockquote class="col-sm-6" id="bishop">
 				<div class="quote">
 					<span class="intro">Great Job!</span>
-					<span class="more">Jim is easy to work with and nothing was a bother/span>
+					<span class="more">Jim is easy to work with and nothing was a bother</span>
 					<span class="customer">Kim B.</span>
 				</div>
 			</blockquote>
