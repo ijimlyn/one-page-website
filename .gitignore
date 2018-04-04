@@ -1,0 +1,14 @@
+#exclude sass
+.sass-cache/
+*.css.map
+*.scss
+
+#excluse less
+*.less
+ 
+ # exclude preprocessor
+ prepros-6.config
+
+* exclude text files
+*.txt
+
