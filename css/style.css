@@ -256,11 +256,11 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
   height: 30px; }
 
 /*other media*/
-@media (min-width: 300px) {
+@media only screen and (min-width: 300px) and (max-width: 449px) {
   .photo img {
     display: block;
     margin: 0 auto;
-    margin-bottom: 1em; }
+    margin-bottom: 1.2em; }
   #bio .info h3 {
     text-align: center; } }
 
@@ -269,7 +269,11 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
   #services p {
     padding: 0 20%; }
   #bio .info h3 {
-    text-align: center; } }
+    text-align: center; }
+  .photo img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1.2em; } }
 
 @media (max-width: 575px) {
   a.navbar-brand {
