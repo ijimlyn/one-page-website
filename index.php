@@ -172,6 +172,7 @@
 			<div class="col-sm-6">
 				<p>Contact me <span class="phone">#63-910-447-3269</span></p>
 				<p>All contents &copy; 2018 <a href="https://www.facebook.com/Mhij-Graphics-Design-Web-development-151238678369644/">Mhij Graphics</a>. All rights reserved.</p>
+				<nav class="socialmediaicons "></nav>
 			</div><!--col-sm-6-->
 			<div class="col-sm-6">
 				<nav class="navbar navbar-expand-sm navbar-light" role="navigation">
