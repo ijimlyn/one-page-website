@@ -117,10 +117,9 @@
 						<p>Theres nothing greater than finding unlimitted oppurtunites at home while connecting to people around the world by helping them meet their business goals thru arts of coding or digitial drawing.</p>
 						<p>I have so many different experiences in this complex online freelancing job. There were goods and bads that helped me hone my skills  as an artist and hone me as a person because online oppurtunity doesn't always come so easily it requires tons of focus and patience.</p>
 						<p>I love working with new people and learning new things. Feel free to say hello and share your business goals with me. </p>
-						
-						
-						
+						<nav class="socialmediaicons "></nav>
 					</div><!--info-->
+					
 				</div><!--Row--> 
 			</div><!--doctor-->
 					

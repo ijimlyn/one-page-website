@@ -315,6 +315,27 @@ span.carousel-control-prev-icon,span.carousel-control-next-icon{
 	height: 30px;
 }
 
+
+/*
+#socialmedia nav
+*/
+.socialmediaicons ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.socialmediaicons ul li{
+	display: inline-block;
+	margin-left: 5px;
+}
+.socialmediaicons ul li img{
+	width: 30px;
+	-webkit-border-radius:50%;
+	-o-border-radius:50%;
+	-moz-border-radius:50%;
+	border-radius: 50%;
+}
+
 /*other media*/
 @media only screen and (min-width:300px) and (max-width:449px){
 	.photo img {
@@ -326,6 +347,8 @@ span.carousel-control-prev-icon,span.carousel-control-next-icon{
 	#bio .info h3{
 		text-align: center;
 	}
+
+	
 
 } /*end of--@media(min-width:300px)*/
 

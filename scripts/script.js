@@ -112,3 +112,33 @@ $(document).ready(function() {
 
 });
 
+
+
+/*
+#SOCIALMEDIA icons
+*/
+var socialMedia = {
+	facebook: 'http://facebook.com/ijimlyn', 
+	twitter: 'http://twitter.com/ijimlyn', 
+	//youtube: 'http://youtube.com/',
+	dribble:  'http://dribble.com/ijimlyn',
+}
+
+var social = function(){
+	var output= '<ul>',
+	myList =  document.querySelectorAll('.socialmediaicons');
+
+	for(var key in arguments[0]){ /*arguments[0] points to socialMedia*/
+		output+='<li><a href="'+socialMedia[key]+'" target="_blank"><img src="images/'+key+'.png" alt="icon for '+key+'"></a></li>';
+	}
+
+	for (var i = myList.length - 1; i >= 0; i--) {
+		myList[i].innerHTML = output;
+	}
+
+
+	output += '</ul>';
+}(socialMedia);
+
+
+
