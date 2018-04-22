@@ -192,7 +192,8 @@ header .navbar {
 #testimonials .quote:hover .customer {
   display: block;
   font-size: .7em;
-  text-align: right; }
+  text-align: left;
+  opacity: 1; }
 
 /*end of>page--testimonials*/
 /*footer*/
@@ -270,7 +271,14 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
     margin-bottom: 1.2em; }
 
   #bio .info h3 {
-    text-align: center; } }
+    text-align: center; }
+
+  /*
+  #social media
+  */
+  nav.socialmediaicons ul {
+    width: 110px;
+    margin: 0 auto; } }
 /*end of--@media(min-width:300px)*/
 @media only screen and (min-width: 450px) and (max-width: 767px) {
   #services p {
@@ -282,7 +290,14 @@ span.carousel-control-prev-icon, span.carousel-control-next-icon {
   .photo img {
     display: block;
     margin: 0 auto;
-    margin-bottom: 1.2em; } }
+    margin-bottom: 1.2em; }
+
+  /*
+  #social media
+  */
+  nav.socialmediaicons ul {
+    width: 110px;
+    margin: 0 auto; } }
 @media (max-width: 575px) {
   a.navbar-brand {
     /*visibility: hidden;*/

@@ -189,7 +189,7 @@ header .navbar {
 		padding: 20px 5%;
 		position:absolute;
 		bottom:0;
-		width:75%;
+		width:75%;	
 		font-weight:400;
 		border-radius:0 50px 0 0;
 	}
@@ -250,7 +250,8 @@ header .navbar {
 #testimonials .quote:hover .customer{
 	display:block;
 	font-size: .7em;
-	text-align: right;
+	text-align: left;
+	opacity: 1;
 }
 
 

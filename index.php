@@ -50,7 +50,7 @@
 						<img class="d-block w-100" src="images/toggleUpLogo.jpg" alt="social-logo">
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" src="images/Tri-Fold-Brochure.jpg" alt="brochure">
+						<img class="d-block w-100" src="images/spealgeek2.jpg" alt="geek teacher">
 					</div>
 					<div class="carousel-item">
 						<img class="d-block w-100" src="images/mothersDayLogo.jpg" alt="brochure">
@@ -191,8 +191,18 @@
 <!--<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>-->
+
 <script src="scripts/jquery.min.js"></script>
 <script src="scripts/bootstrap.min.js"></script>
 <script src="scripts/script.js"></script>
+<script type"text/javascript">
+	console.log("hello world");
+	$(document).ready(function(){
+    $("div.quote").on("click", function(){
+        //console.log("The quore was clicked do something.");
+		$("#testimonials .quote:hover .intro").after("<p>Hello world!</p>");
+    });
+});
+</script>
 </body>
 </html>

@@ -202,7 +202,8 @@ header .navbar {
 #testimonials .quote:hover .customer {
   display: block;
   font-size: .7em;
-  text-align: right; }
+  text-align: left;
+  opacity: 1; }
 
 /*end of>page--testimonials*/
 /*footer*/
